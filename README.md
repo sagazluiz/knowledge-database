@@ -300,7 +300,7 @@ Adicione um `.obsidian/` folder customizado (arquivo `vault.json`) para:
 
 ## Licença
 
-MIT — Use livremente para fins educacionais e comerciais.
+MIT — Use livremente para fins educacionais.
 
 ---
 
