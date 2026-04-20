@@ -1,0 +1,68 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.knowledge-db/
+.venv
+
+# direnv
+.envrc
+
+# Environment variables (local secrets)
+.env
+.env.local
+.env.*.local
+
+# Large source files (PDFs, PPTXs, DOCXs)
+# Mantenha a estrutura de pastas, só ignore os arquivos grandes
+sources/**/*.pdf
+sources/**/*.pptx
+sources/**/*.docx
+!sources/**/.gitkeep
+
+# IDE & Editor
+.vscode/
+.idea/
+.obsidian/
+*.swp
+*.swo
+*~
+*.iml
+.settings/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# OS Windows
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+.tmp/
+temp/
+
+# Database (persisted locally, não versiona)
+*.db
+*.duckdb
+
+# Jupyter (se adicionar notebooks futuramente)
+.ipynb_checkpoints/
+*.ipynb
+
+

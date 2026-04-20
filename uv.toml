@@ -1,0 +1,3 @@
+# uv configuration
+# Nota: o diretório do venv é controlado pela variável de ambiente
+# UV_PROJECT_ENVIRONMENT=.knowledge-db (definida no .envrc)
