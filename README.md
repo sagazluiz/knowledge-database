@@ -82,7 +82,7 @@ knowledge-database/
 │   └── entities/              # Páginas geradas (Arquiteturas, Embeddings, RAG, etc)
 │
 ├── sources/                    # Buffer de entrada (PDFs, DOCXs)
-│   └── GTC_NVIDIA/            # Exemplo: conferência técnica
+│   └── papers/            # Exemplo: conferência técnica
 │
 ├── src/                        # Código-fonte
 │   ├── __init__.py
